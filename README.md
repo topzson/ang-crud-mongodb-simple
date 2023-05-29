@@ -584,12 +584,7 @@ If the process is successful, open Browser with Url: <code>http://localhost:8081
 </ul>
 
 <div class="quads-location quads-ad4" id="quads-ad4" style="float: none; margin: 20px 0px; text-align: center; visibility: visible;">
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9222145312954144" crossorigin="anonymous" type="text/javascript"></script>
 
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9222145312954144" data-ad-slot="5596689762" data-ad-format="auto" data-full-width-responsive="true"><iframe id="aswift_4" style="height: 1px !important; max-height: 1px !important; max-width: 1px !important; width: 1px !important;"><iframe id="google_ads_frame4"></iframe></iframe></ins>
-<script type="text/javascript">
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </div>
 
 
